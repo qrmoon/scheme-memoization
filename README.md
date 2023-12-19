@@ -1,6 +1,6 @@
 # scheme-memoization
 
-Macros for [memoization](https://en.wikipedia.org/wiki/Memoization) implemented in R7RS Scheme. I made these to practice Scheme, but you might find them useful if your implementation doesn't provide them.
+Macros for [memoization](https://en.wikipedia.org/wiki/Memoization) implemented in R7RS Scheme. I made these to practice Scheme, but you might find them useful if your implementation doesn't an alternative.
 
 ## Usage
 
